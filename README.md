@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Customer Segmentation
 ### Overview
 - Built a model using the K-means clustering algorithm to cluster customers with similar interest 
@@ -37,3 +38,9 @@
 
   
  
+=======
+# Customer_segmentation
+
+# Over View 
+
+>>>>>>> Stashed changes
